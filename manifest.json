@@ -6,7 +6,7 @@
     {
       "matches": ["https://docs.google.com/"]
     }
-  "manifest_version": 3,
+  "manifest_version": 1,
   "action": {
     "default_popup": "SMART.html",
     "default_icon": "WriteSMART.png"
