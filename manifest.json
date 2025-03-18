@@ -2,6 +2,11 @@
   "name": "WriteSMART",
   "description": "WriteSMART Extension",
   "version": "1.0",
+  "conten_scripts": [
+    {
+      "matches": ["https://docs.google.com/"]
+      "js": ["Content.js"]
+    }
   "manifest_version": 3,
   "action": {
     "default_popup": "SMART.html",
