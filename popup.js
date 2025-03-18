@@ -1,1 +1,1 @@
-console.log('Welcom to WriteSMART!');
+console.log('Welcome to WriteSMART!');
