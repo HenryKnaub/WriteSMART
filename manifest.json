@@ -5,6 +5,6 @@
   "manifest_version": 3,
   "action": {
     "default_popup": "SMART.html",
-    "default_icon": "SMART.png"
+    "default_icon": "WriteSMART.png"
   }
 }
